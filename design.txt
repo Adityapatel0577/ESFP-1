@@ -1,0 +1,22 @@
+Design
+There are some essential parts that you need for your drone:
+Flight controller (HolyBro Kakute F7)
+Motors (your choice)
+ESCs (HolyBro BHeli32 4-in-1 ESCs) – these distribute the power from the battery to the motors
+Propellers(have to match the motors)
+Frame (build from any material you’d like except carbon fiber as you cannot machine it at EPIC)
+Receiver and transmitter (Taranis QX7 and X8R)
+There are plenty of interesting drone configurations out there. Tri-copters, X frames and H frames are a great place to start! Do your research and get creative with how you want to design your drone. Symmetry is key to ensure flight stability
+
+The electronic components of a quadcopter consist of:
+Motors:-
+Two types of Drone Motors are used in RC, Brushless and Brushed motors. Brushless motors are used for larger models (such as racing drones, and any bigger models), and Brushed on the micro-drones and toy drones.
+
+Electronic Speed Controllers
+Electronic speed controllers (ESCs) are devices that allow drone flight controllers to control and adjust the speed of the aircraft's electric motors. A signal from the flight controller causes the ESC to raise or lower the voltage to the motor as required, thus changing the speed of the propeller.
+
+Receiver and Transmitter
+An FPV Drone Radio Transmitter commonly use the following frequencies: 27MHz, 72MHz, 433MHz, 900MHz, 1.3GHz and 2.4Ghz, 433Mhz, 900Mhz, and 1.3GHz are typically used in long-range FPV and RC systems. OpenTX is a highly configurable system offering plenty of options for all types of RC models.
+
+Flight controller.
+The flight controller is the brain of a drone. A small box filled with intelligent electronics and software, which monitors and controls everything the drone does. And just like the brains of different organisms, flight controllers also vary in sizes and complexity. ( picture of different flight controllers)

@@ -1,0 +1,36 @@
+Helps emergency responders save lives
+Public safety drones are becoming indispensable for first responders in emergency response. Whether it's a chemical leak in Florida or a chemical fire in Arkansas, emergency response teams across the country are deploying drones for a quick and safe assessment of the situation. A detailed aerial and thermographic image of the situation can help pinpoint the source of the problem, assess the dangers involved, create a rescue plan, and rescue people if they are trapped. Emergency situations present novel challenges for emergency teams to tackle.
+First responders can use drones rather than risking their lives and going into dangerous situations blindly. In crisis response situations, emergency drones can provide rescue teams with a better understanding of the situation and help them make informed decisions.
+
+Makes Inspections More Efficient
+
+The drone eliminates the need to transport and set up scaffolding, ladders and other access equipment, hence reducing the cost and time for the inspection exercise. Unlike the traditional inspection methods that require lengthy preparation periods, setting up of the heavy access equipment and manual data gathering processes, the drones can reduce the inspection time significantly. Generally, the drone inspection requires a short time to plan and execute.
+
+In fact, it is possible to plan and perform a drone-based inspection in less than an hour compared to several days or weeks for a manual method. The improved time translates faster detection of problems or issues that require attention. For insurance and marketers, the savings on time is a great benefit since they are able to submit proposals much faster. In assets management or construction projects, the drones offer an effective way of reducing inspection and maintenance times and costs. Generally, it cuts down on the time to evaluate the structure and make the necessary decisions - such as repairing defects before they lead to bigger expensive failures. And if there is something that is not clear or requiring clarification, the operator can send the drone back within a few minutes. Sending back workers in a tradition inspection method may take several hours or days, especially if they had dismantled the climbing equipment and even longer if they usually hire them from third party providers.
+
+Great For Recording Your Videos and Capturing Photos
+A virtual simulation of drone flisghts in a manufacturing facility was developed to identify and evalute the potential of automatic drones for thermal inspection of injection molding machines.
+
+This paper reports the implementation of the virtual simulation and discusses how such simulations can inform the use of automatic drones for fctory inspection.
+
+Automatic drones can improve indoor manufacturing processes, particularly repetitive tasks such as inspec-tion operations, intralogistics for small parts, cycle counting in warehouses, security monitoring, ergonomic monitoring, risk monitoring, and building-information modeling.
+
+Implementing automatic drones involves considerable technological and operational challenges. This paper showed that virtual simulations can ani-mate automatic drone flights in 3D and help better understand the technological and operational challenges of using new technologies in real manufacturing environments and support decision-making and problem-solving processes.
+
+For instance, factory planners can use simulation models to evaluate, allocate, and design airspace for drone flights. Virtual simulation of automatic drones also helps set and define safe flight zones for indoor airspace, which helps quickly evaluate various scenarios, such as trade-offs between coverage, speed, and risks.
+
+Furthermore, factory managers can use 3D models to communicate and collaborate with drone technology developers, as well as sensor manufacturers and robotics companies, by virtually presenting the technological requirements of using automatic drones with embedded sensors/technologies in their set-tings. For instance, primary metal companies would require drones and thermal cameras that can cope with high temperatures, petrochemical companies require explosion-proof drone systems, and e-commerce ware-houses may benefit from collaborative drone technologies (i.e., swarming) with advanced path planning and fleet management systems.
+
+Reduce manpower requirements and personal risks
+Drones can do those tedious and repetitive tasks of monitoring large areas very efficiently and rapidly, inspecting hard-to-reach locations and gathering data necessary to assess potentially dangerous situations. Due to the ability to cover vast areas regardless of terrain, drones can get closer to hazards, such as high voltage areas, without putting humans at risk of harm and enabling better-informed decisions during adverse incidents.
+
+A drone can quickly fly over, detect threats and provide aerial images and real-time footage. This allows security staff to assess the level of danger and identify the appropriate response. Drones also come in handy to provide comprehensive coverage of the crime scene for officers to be fully briefed on the situation and assess the risk before venturing in to tackle the incident.
+
+Drones can help save time and cost especially when it comes to large industrial facilities, like oil and gas sites, solar farms, storerooms or securing pipelines where proper video surveillance is critical to reducing risks of damage, leaks and protecting against theft of equipment and raw materials. However, buying, installing and maintaining cameras in remote areas is expensive. With drones, carrying out inspections is cheaper. Drone security patrols have the ability to monitor vast areas and provide high-quality images and video footage in real time, which could also mean that fewer on-site security officers are needed to protect a site or property.
+
+Helps to make general announcement in factory.
+Civilian UAV communications systems typically operate on frequencies of 2.4 GHz and 5.8 GHz. UAV communications systems work by using one frequency to control the aerial vehicle from the ground via a remote pilot while the other frequency is used to beam data or relay First-Person View (FPV) video. By utilizing high-quality, reliable communications links, civilian UAVs are able to relay aerial visuals and data to those on the ground with ease, while still remaining in flight.
+
+As UAVs continue to position themselves as the preeminent aerial data collection platform across a wide variety of industries, their communications systems grow proportionally in importance. Without highly adaptable and reliable communications systems, operators are left at a stark disadvantage for obtaining aerial visuals and data. As it stands, RF communications are the most optimized solution for reliable drone communications systems. A combination of their small size, weight, minimized power consumption, and robust communications link makes them the most suitable solution for most civilian UAVs.
+
+Speed is another advantage. Drones are much faster than a patrol vehicle or a security officer, which allows them to reach the scene of the incident several times quicker and give the opportunity to provide a rapid remedial response.
